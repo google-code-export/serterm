@@ -4,4 +4,4 @@
 = Introduction =
 
 ZigBee is a wireless (mesh) networking protocol built on the IEEE 802.15.4 standard.
-For more information, visit www.zigbee.org and en.wikipedia.org/wiki/ZigBee.
+For more information, visit <a href="www.zigbee.org">www.zigbee.org</a> and <a href="en.wikipedia.org/wiki/ZigBee">en.wikipedia.org/wiki/ZigBee</a>.
